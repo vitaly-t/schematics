@@ -1,0 +1,21 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "fixtures/angular/entity/libs/demo/core/ng-package.json",
+        "fixtures/angular/entity/libs/demo/core/package.json",
+        "fixtures/angular/entity/libs/demo/web/ng-package.json",
+        "fixtures/angular/entity/libs/demo/web/package.json",
+        "fixtures/angular/entity/package.json",
+        "fixtures/angular/new/libs/demo/core/ng-package.json",
+        "fixtures/angular/new/libs/demo/core/package.json",
+        "fixtures/angular/new/libs/demo/web/ng-package.json",
+        "fixtures/angular/new/libs/demo/web/package.json",
+        "fixtures/angular/new/package.json",
+        "fixtures/nestjs/entity/package.json",
+        "fixtures/nestjs/new/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
